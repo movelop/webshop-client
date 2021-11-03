@@ -1,4 +1,4 @@
-import { Add, Remove, ShoppingCartOutlined } from '@material-ui/icons';
+import { Add, Remove } from '@material-ui/icons';
 import React from 'react';
 import styled from 'styled-components';
 import { Announcements, Footer, Navbar, NewsLetter } from '../components';
