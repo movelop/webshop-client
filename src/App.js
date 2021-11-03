@@ -1,10 +1,10 @@
 import React from 'react'
 
-import { Home, ProductList, Product, Register, Login } from './pages'
+import { Home, ProductList, Product, Register, Login, Cart } from './pages'
 const App = () => {
     return (
         <div>
-            <Login />
+            <Cart />
         </div>
     )
 }
