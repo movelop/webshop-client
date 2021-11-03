@@ -67,7 +67,7 @@ export const sliderItems = [
     },
     {
       id:7,
-      img:"https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png",
+      img:"https://freepngimg.com/thumb/shoes/28530-3-nike-shoes-transparent-thumb.png",
     },
     {
       id:8,

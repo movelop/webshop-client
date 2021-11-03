@@ -1,4 +1,4 @@
-import { Navbar, Announcements, Slider, Categories } from "../components" 
+import { Navbar, Announcements, Slider, Categories, Products, NewsLetter } from "../components" 
 const Home = () => {
     return (
         <div>
@@ -6,6 +6,8 @@ const Home = () => {
             <Navbar />
             <Slider />
             <Categories />
+            <Products />
+            <NewsLetter />
         </div>
     )
 }
